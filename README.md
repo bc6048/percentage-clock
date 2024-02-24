@@ -1,5 +1,5 @@
 # Brand-New %clock
-There are many things that are ‘well known’ about clock, such as that a day consists of 24 hours, an hour consists of 60 minutes and that a minute consists of 60 seconds. However, there seems to be a distinct lack of more intuitive timekeeping methods.
+There are many things that are ‘well known’ about clock, such as that a day consists of 24 hours, an hour consists of 60 minutes and that a minute consists of 60 seconds. However, there seems to be a distinct lack of more intuitive timekeeping method.
 
 Here we introduce an alternative timekeeping method in which, 24-hour clock is converted to pass percentage of today, with 4 float-digits shown.
 
