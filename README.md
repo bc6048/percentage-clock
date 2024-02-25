@@ -41,11 +41,11 @@ A centix is 1 minute and 26.4 seconds.
 
 • **Unixtar** (Timestamp)
 
-N unixtar means the timestamp that denotes when surpasses N unix from the nearest midnight.
+33.3 unixtar means the timestamp that denotes when surpasses 33.3 unix from the nearest midnight, and is about 8 a.m.
 
 Example Usage:
 
-Tomorrow we'll meet at 65 unixtar at the playground for 5 centix jog.
+Tomorrow we'll meet at 65.5 unixtar at the playground for 5 centix jog.
 
 
 
