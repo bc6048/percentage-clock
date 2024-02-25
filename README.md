@@ -33,11 +33,12 @@ Get familiar with these %clock terminology for conversation.
 
 • 1%: **Unix** (Time Unit)
 
-A Unix is 14 minutes and 24 seconds.
+A Unix is 14.4 minutes.
 
 • 0.1%: **Centix** (Time Unit)
 
-A centix is 1 minute and 26.4 seconds.
+A centix is 1.44 minutes.
+A day is 1440 minutes or 1000 centix.
 
 • **Unixtar** (Timestamp)
 
