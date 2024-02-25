@@ -27,3 +27,19 @@ float getPercentileTime() {
   return percentile;
 }
 ```
+# Terminology
+Get familiar with these %clock terminologies for conversations.
+
+• 10%: Decix
+A day consists of 10 decix.
+A decix is 2 hour and 24 minutes.
+• 1%: Unix
+A Unix is 14 minutes and 24 seconds.
+• 0.1%: Centix
+A centix is 1 minute and 26.4 seconds.
+
+# Example Usage for Conversation
+• Tomorrow we'll meet at 65 unix at the playground for 5 centix jog.
+
+
+
