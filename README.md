@@ -28,16 +28,23 @@ float getPercentileTime() {
 }
 ```
 # Terminology
+
 Get familiar with these %clock terminology for conversation.
 
-• 1%: Unix
+• 1%: **Unix** (Time Unit)
+
 A Unix is 14 minutes and 24 seconds.
 
-• 0.1%: Centix
+• 0.1%: **Centix** (Time Unit)
+
 A centix is 1 minute and 26.4 seconds.
 
+• **Unixtar** (Timestamp)
+N unixtar means the timestamp that denotes when surpasses N unix from the nearest midnight.
+
 Example Usage:
-Tomorrow we'll meet at 65 unix at the playground for 5 centix jog.
+
+Tomorrow we'll meet at 65 unixtar at the playground for 5 centix jog.
 
 
 
