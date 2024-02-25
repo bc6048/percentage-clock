@@ -35,18 +35,13 @@ Get familiar with these %clock terminology for conversation.
 
 A Unix is 14.4 minutes.
 
-• 0.1%: **Centix** (Time Unit)
-
-A centix is 1.44 minutes.
-A day is 1440 minutes or 1000 centix.
-
 • **Unixtar** (Timestamp)
 
-33.3 unixtar means the timestamp that denotes when surpasses 33.3 unix from the nearest midnight, and is about 8 a.m.
+33.33 Unixtar means the timestamp that denotes when surpasses 33.33 unix from the nearest midnight, and is about 8 a.m.
 
 Example Usage:
 
-Tomorrow we'll meet at 65.5 unixtar at the playground for 5 centix jog.
+Tomorrow we'll meet at 65.5 unixtar at the playground for 1 unix jog.
 
 
 
